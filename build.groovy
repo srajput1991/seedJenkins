@@ -6,7 +6,7 @@ String stashUrl = 'git_url'
 String stashUser = 'USER'
 
 def projects = [
-    [project: 'PROJECT_NAME', url: stashUrl, user: stashUser, repo: 'peacebox-ova'],
+    [project: 'PROJECT_NAME', url: stashUrl, user: stashUser, repo: 'reponame'],
     [project: 'PROJECT_NAME', url: stashUrl, user: stashUser, repo: 'dcos-cleanup']
 ]
 
